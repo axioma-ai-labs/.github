@@ -1,9 +1,13 @@
-## Hi there 👋
+## Welcome to Axioma AI
 
-**Here are some ideas to get you started:**
+We build state-of-the-art, cost-effective AI Agents & AI Labs for knowledge-heavy industries.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🚧 Currently focused on [**Neurodex**](https://neurodex.ai) — an AI platform for crypto market intelligence (it's cool — go check it out!)
+
+## Featured Projects
+- [Neurodex](https://github.com/axioma-ai/neurodex) — Web-based terminal for crypto market intelligence & cross-chain swapping  
+- [Nevron](https://github.com/axioma-ai/nevron) — Free open-source AI agent framework  
+- [Dispatchy](https://github.com/axioma-ai/dispatchy) — Free Telegram aggregator for AI, ML & robotics news
+
+## Want to Get in Touch?
+Drop us an email: [info@axioma-ai.com](mailto:info@axioma-ai.com)
