@@ -17,3 +17,5 @@ We build state-of-the-art, cost-effective AI Agents & AI Labs for knowledge-heav
 ## Want to Get in Touch?
 
 📩 Email us: [info@axioma-ai.com](mailto:info@axioma-ai.com)
+
+📩 DM us: [𝕏 (Twitter)](https://x.com/axioma_ai)
