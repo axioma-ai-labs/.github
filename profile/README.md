@@ -11,7 +11,7 @@ We build state-of-the-art, cost-effective AI Agents & AI Labs for knowledge-heav
 - [**Neurodex**](https://neurodex.ai) - Web-based terminal for crypto market intelligence & cross-chain swapping  
 - [**Nevron**](https://github.com/axioma-ai-labs/nevron) - Free, open-source AI agent framework  
 - [**Dispatchy**](https://github.com/axioma-ai/dispatchy) · [Telegram Bot](https://t.me/dispatchy_bot) - Free Telegram aggregator for AI, ML & robotics news  
-· [Telegram Trading Bot](https://github.com/axioma-ai-labs/telegram-trading-bot) - Non-custodial Telegram Trading Bot with easy setup
+- [Telegram Trading Bot](https://github.com/axioma-ai-labs/telegram-trading-bot) - Non-custodial Telegram Trading Bot with easy setup
 
 ---
 
