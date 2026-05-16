@@ -13,6 +13,7 @@ We build state-of-the-art, cost-effective AI Agents & AI Labs for knowledge-heav
 
 - [**Neurodex**](https://neurodex.ai) - Web-based terminal for crypto market intelligence & cross-chain swapping  
 - [**Nevron**](https://github.com/axioma-ai-labs/nevron) - Free, open-source AI agent framework
+- [**NeuroAPI**](https://neuroapi.neurobro.ai) - Neurobro's API for financial market intelligence ([docs](https://neuroapi.neurobro.ai/docs))
 - [**Neurobro x402**](https://github.com/axioma-ai-labs/x402-neurobro) - Neurobro API with x402 micropayments
 - [**Dispatchy**](https://github.com/axioma-ai/dispatchy) · [**Telegram Bot**](https://t.me/dispatchy_bot) - Free Telegram aggregator for AI, ML & robotics news  
 - [**Telegram Trading Bot**](https://github.com/axioma-ai-labs/telegram-trading-bot) - Free, open-source, non-custodial Telegram trading bot that’s easy to set up and run
