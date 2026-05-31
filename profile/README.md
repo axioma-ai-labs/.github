@@ -5,13 +5,13 @@ We build state-of-the-art, cost-effective AI Agents & AI Labs for knowledge-heav
 🚧 Currently focused on: 
 
 - [**Neurobro Mobile**](https://neurobro.ai/download-mobile-app-select) - your go-to mobile AI advisor for stocks, commodities, ETFs, crypto & forex. Live on [App Store](https://apps.apple.com/us/app/neurobro-ai-news-markets/id6756173513) & [Play Store](https://play.google.com/store/apps/details?id=ai.neurodex.app)
-- [**Neurodex**](https://neurodex.ai) - an AI platform for crypto market intelligence (it’s cool - go check it out!)
+- [**Neurobro Web**](https://app.neurobro.ai) - an AI platform for financial market intelligence (it’s cool - go check it out!)
 
 ---
 
 ## Featured Projects
 
-- [**Neurodex**](https://neurodex.ai) - Web-based terminal for crypto market intelligence & cross-chain swapping  
+- [**Neurobro Web**](https://app.neurobro.ai) - Web-based terminal for financial market intelligence & cross-chain swapping  
 - [**Nevron**](https://github.com/axioma-ai-labs/nevron) - Free, open-source AI agent framework
 - [**NeuroAPI**](https://neuroapi.neurobro.ai) - Neurobro's API for financial market intelligence ([docs](https://neuroapi.neurobro.ai/docs))
 - [**Neurobro x402**](https://github.com/axioma-ai-labs/x402-neurobro) - Neurobro API with x402 micropayments
